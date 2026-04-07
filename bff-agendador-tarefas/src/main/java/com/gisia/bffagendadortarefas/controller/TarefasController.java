@@ -4,7 +4,7 @@ import com.gisia.bffagendadortarefas.business.TarefasService;
 import com.gisia.bffagendadortarefas.business.dto.in.TarefasDTORequest;
 import com.gisia.bffagendadortarefas.business.dto.out.TarefasDTOResponse;
 import com.gisia.bffagendadortarefas.business.enums.StatusNotificacaoEnum;
-import com.gisia.bffagendadortarefas.infrastructure.client.security.SecurityConfig;
+import com.gisia.bffagendadortarefas.infrastructure.security.SecurityConfig;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;

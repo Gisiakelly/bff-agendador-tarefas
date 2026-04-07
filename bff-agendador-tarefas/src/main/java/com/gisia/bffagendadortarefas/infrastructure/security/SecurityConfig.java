@@ -1,4 +1,4 @@
-package com.gisia.bffagendadortarefas.infrastructure.client.security;
+package com.gisia.bffagendadortarefas.infrastructure.security;
 
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType;
 import io.swagger.v3.oas.annotations.security.SecurityScheme;
